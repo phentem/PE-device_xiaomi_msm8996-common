@@ -204,3 +204,4 @@ WPA_SUPPLICANT_VERSION := VER_0_8_X
 -include vendor/xiaomi/msm8996-common/BoardConfigVendor.mk
 
 BUILD_BROKEN_DUP_RULES := true
+ALLOW_MISSING_DEPENDENCIES=true
